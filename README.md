@@ -7,7 +7,11 @@ Nesta planilha é possível agregar as informações necessárias à declaraçã
 2.	Bancários;
 3.	Entradas; e
 4.	Saídas - planilha voltada a despesas dedutíveis no imposto de renda.
- A planilha foi pensada para facilitar a agregação das informações durante o ano. Assim, pode-se navegar entre várias planilhas adicionando as Entradas e Saídas mensalmente.
+ A planilha foi pensada para facilitar a agregação das informações durante o ano.
+
+Navegação:
+
+Pode-se navegar entre várias as planilhas adicionando as Entradas e Saídas mensalmente, por meio de links.
 
 Origem:
 
